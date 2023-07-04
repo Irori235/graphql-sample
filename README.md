@@ -4,16 +4,15 @@
 ```
 cd graphql-sample
 ```
-```
+
 
 ### client
 ```
 cd client
 yarn 
 yarn run dev
-
 ```
-start port: 5173
+start port: 5173å
 
 ### server
 ```
