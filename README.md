@@ -1,14 +1,19 @@
 # Sample GraphQL Application
 
 ## Running the application
+```
+cd graphql-sample
+```
+```
+
 ### client
 ```
 cd client
-yarn install
+yarn 
 yarn run dev
 
 ```
-start port: 3000
+start port: 5173
 
 ### server
 ```
@@ -17,8 +22,11 @@ cd server
 
 #### simple(using only graphql)
 ```
-go mod tidy
+cd simple
 go run main.go
 ```
 
 start port: 8080
+
+#### gqlgen(using gqlgen)
+🚧 WIP 🚧
